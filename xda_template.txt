@@ -1,0 +1,66 @@
+[ROM][9.0][DEVICE] Vortex OS [AOSP/CAF][2019/04/22]
+
+[CENTER][img]https://raw.githubusercontent.com/vortex-project/manifest/pie/snippets/vortex_logo_manifest.png[/img]
+
+[CODE]/*
+ * Your warranty is now void.
+ * 
+ * I am not responsible for bricked devices, dead SD cards,
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+ * do some research if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you point the finger at me for messing up your device, I will laugh at you.
+ */[/CODE]
+ 
+[SIZE="4"][B]Introduction[/B][/SIZE]
+It is a project designed with the idea of ​​keeping everything clean and simple. Without neglecting the necessary updates to maintain a stable, secure and fast system. At the moment this work is only thought to work with the specific model that you want to compile. Characteristics of other rom of the community have been selected, which are grateful for their contribution. (See credits)
+
+
+[SIZE="3"][B]Read the whole OP! Be respectful to each other and don't ask for ETAs, it's considered as being rude![/B][/SIZE]
+
+------------------------
+
+[SIZE="3"][B]DON'T FLASH GAPPS, ALREADY INCLUDED[/B][/SIZE]
+[SIZE="3"][url="https://sourceforge.net/projects/vortex-project/files/DEVICE_CODENAME/"][b][u]Donwload ROM[/u][/b][/url][/SIZE]
+
+------------------------
+
+[SIZE="4"][b]Donate[/b][/SIZE]
+[SIZE="3"][url="https://paypal.me/melvingb"][b][u]Liked my work? Support the project[/u][/b][/url][/SIZE]
+
+------------------------
+
+[SIZE="4"][B]Checkout this ROM!
+YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
+
+------------------------
+
+[B][SIZE="4"]People behind this amazing ROM![/SIZE][/B]
+
+[B][SIZE="4"]
+-[MENTION=6969064]Melvin Garcia[/MENTION](Owner/Dev)
+-[MENTION=7232898]nysadev[/MENTION]
+-kjjjnob
+-Luis Chaves
+-[URL="https://android.googlesource.com/platform/"]AOSP[/URL]
+-[URL="https://github.com/PixysOS"]PixysOS[/URL]
+-[URL="https://github.com/DirtyUnicorns"]DirtyUnicorns[/URL]
+-[URL="https://github.com/LineageOS"]LineageOS/Cyanogenmod[/URL]
+-[URL="https://github.com/nitrogen-project"]Nitrogen Project[/URL]
+-[URL="https://github.com/PureNexusProject"]Pure Nexus[/URL]
+-[URL="https://github.com/omnirom"]OmniROM[/URL]
+-[URL="https://github.com/ezio84"]ABC ROM[/URL]
+-[URL="https://github.com/PixelExperience"]Pixel Experience[/URL]
+-[URL="https://github.com/evolution-x"]Evolution X[/URL][/SIZE][/B]
+
+------------------------
+
+[SIZE="4"][b]Telegram channel[/b][/SIZE]
+[SIZE="3"][url="https://t.me/VortexOS"][b][u]Stay tuned[/u][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Build author:[/b] [url=https://forum.xda-developers.com/member.php?u=XDA_NUMERIC_ID]XDA_USERNAME[/url]
+[*][b]Source code:[/b] [url=https://github.com/vortex-project]Vortex OS[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=6969064]Melvin Garcia[/url]
+[/list][/SIZE][/LEFT]
