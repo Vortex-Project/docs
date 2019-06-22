@@ -1,4 +1,4 @@
-[ROM][9.0][DEVICE] Vortex OS [AOSP/CAF][2019/04/22]
+[ROM][9.0][DEVICE] Vortex OS [AOSP][2019/04/22]
 
 [CENTER][img]https://raw.githubusercontent.com/vortex-project/manifest/pie/snippets/vortex_logo_manifest.png[/img]
 
@@ -45,7 +45,6 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 -[URL="https://android.googlesource.com/platform/"]AOSP[/URL]
 -[URL="https://github.com/PixysOS"]PixysOS[/URL]
 -[URL="https://github.com/DirtyUnicorns"]DirtyUnicorns[/URL]
--[URL="https://github.com/LineageOS"]LineageOS/Cyanogenmod[/URL]
 -[URL="https://github.com/nitrogen-project"]Nitrogen Project[/URL]
 -[URL="https://github.com/PureNexusProject"]Pure Nexus[/URL]
 -[URL="https://github.com/omnirom"]OmniROM[/URL]
@@ -56,7 +55,7 @@ YOUR ATTACHMENTS COMES HERE FOR SCREENSHOTS[/B][/SIZE]
 ------------------------
 
 [SIZE="4"][b]Telegram channel[/b][/SIZE]
-[SIZE="3"][url="https://t.me/VortexOS"][b][u]Stay tuned[/u][/b][/url][/SIZE]
+[SIZE="3"][url="https://t.me/VortexOS_Project"][b][u]Stay tuned[/u][/b][/url][/SIZE]
 [/CENTER]
 
 [LEFT][SIZE="3"][list]
